@@ -1,0 +1,5 @@
+Q1: 0ec19ce
+Q2: 3
+Q3: git pull - GitHub has a commit I do not have yet, so I must download and merge it first; then git push will be accepted.
+Q4: No - the password is still in the commit history on GitHub; .gitignore only stops untracked files from being added, so the password must be changed.
+Q5: git branch -d old-fix then git push origin --delete old-fix
